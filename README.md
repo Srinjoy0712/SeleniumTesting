@@ -1,0 +1,3 @@
+In this project, Selenium WebDriver was used to automate the testing of various functionalities on the Bewakoof.com website. The project aimed to simulate real user interactions, such as navigating through the website, performing searches, adding items to the cart, and completing the checkout process. The goal was to ensure that critical features like product display, navigation, and payment functionality were working as expected.
+
+Selenium, a powerful tool for web automation, was used to write test scripts that automatically executed these tasks across different browsers, helping to identify potential bugs or performance issues. The project highlights the importance of automated testing in improving website reliability and ensuring a seamless user experience.
